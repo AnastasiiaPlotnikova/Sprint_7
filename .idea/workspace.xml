@@ -4,14 +4,89 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee3f888f-5c8e-4546-b703-2807b48a2d69" name="Changes" comment="" />
+    <list default="true" id="ee3f888f-5c8e-4546-b703-2807b48a2d69" name="Changes" comment="commit for check">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/client/CourierClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/client/OrdersClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/config/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Courier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testdata/CourierTestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testdata/LoginTestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testdata/OrderTestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CreateCourierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CreateOrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GetOrdersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/065eb2d4-b983-4b29-a9f1-999ec2fce45d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/0dce9d75-3869-4c5d-aa14-9bab50f672d8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/142a1ec6-9903-409b-8796-04b52085f08b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/1afa611b-72bf-487c-accf-faecab67c2d7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/4ba1ac83-147a-4920-92e5-84d5c877d136-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/65f6ef9b-c176-41c7-987e-df39bbdc1f5b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/6b599d4b-4fd9-471d-afb6-c45bda47f545-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/736c2a45-a75b-4214-8878-14229d0d2e84-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/89d15d6f-cb80-4c22-8321-5b76ccba22db-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/a63671a7-18d6-4036-8096-1221b66cc4b7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/allure.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/b248db3c-7fa7-479a-97e8-af7d03df04e8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/c9fdc692-a1de-432b-afda-1eb5d6e64ad4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/ca685b16-62a0-47c6-8186-ed09bc113c7e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/executor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/f21edc37-6078-49a0-87e0-8fd723f4c986-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/client/CourierClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/client/OrdersClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/config/Config.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/Courier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/Login.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/testdata/CourierTestData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/testdata/LoginTestData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/testdata/OrderTestData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/CreateCourierTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/CreateOrderTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/GetOrdersTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/LoginTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-CreateCourierTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-CreateOrderTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-GetOrdersTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-LoginTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/CreateCourierTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/CreateOrderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/GetOrdersTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/LoginTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IukYj5vHaJV2kWpnrdDmgyvkvF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -22,9 +97,67 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.CreateOrderTest">
+    <configuration name="CreateCourierTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CreateCourierTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateOrderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CreateOrderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetOrdersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GetOrdersTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.courierAuthWithoutPassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="METHOD_NAME" value="courierAuthWithoutPassword" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CreateOrderTest" />
+        <item itemvalue="JUnit.LoginTest" />
+        <item itemvalue="JUnit.GetOrdersTest" />
+        <item itemvalue="JUnit.CreateCourierTest" />
+        <item itemvalue="JUnit.LoginTest.courierAuthWithoutPassword" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,5 +168,20 @@
       <updated>1671038906907</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit for check" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit for check" />
   </component>
 </project>
